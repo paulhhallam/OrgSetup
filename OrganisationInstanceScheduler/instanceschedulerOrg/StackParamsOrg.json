@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "Regions",
+        "ParameterValue":"eu-west-2"
+    },
+    {
+        "ParameterKey": "StartedTags",
+        "ParameterValue": "OrgSTARTED"
+    },
+    {
+        "ParameterKey": "CrossAccountRoles",
+        "ParameterValue": ""
+    },
+    {
+        "ParameterKey": "StoppedTags",
+        "ParameterValue": "OrgSTOPED"
+    },
+    {
+        "ParameterKey": "TagName",
+        "ParameterValue": "OrgSchedule"
+    }
+]
