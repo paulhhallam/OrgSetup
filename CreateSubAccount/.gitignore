@@ -1,5 +1,0 @@
-*.deb
-.terraform
-.tfstate
-.tfstate.backup
-saved

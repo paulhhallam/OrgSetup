@@ -1,2 +1,0 @@
-ACname="test"
-ACemail="test"
