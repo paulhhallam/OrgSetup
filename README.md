@@ -26,7 +26,8 @@ Once we move to AWS Control Tower (CT) these instructions will be replaced but w
 #
 The scripts inside this directory will set up the instance scheduler that runs from the organisation account but will execute on each of the sub accounts.
 
-Please note that a script must be run on each sub account (this is managed under the code in the repository "CohortSetup/PSACohortInstanceScheduler/" 
-The ouput from this script will need to be added to the DynamoDB table created by the Organisation Instance Scheduler code.
+Please note that a script must be run on each sub account (this is managed under the code in the repository "CohortSetup/PSACohortInstanceScheduler/")
+
+The ouput from the sub account instance scheduler setup will need to be added to the DynamoDB table created by this Organisation Instance Scheduler code.
 
 Instructions are in the relevant README files.
