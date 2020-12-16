@@ -1,7 +1,9 @@
 # PSAOrgSetup
 
 These scripts will:
+
 	1) Create an organisation sub account
+
 	2) Set up the instance scheduler to reduce costs across the organisation
 
 #
